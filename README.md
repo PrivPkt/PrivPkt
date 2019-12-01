@@ -1,5 +1,5 @@
 # PrivPkt
-Privacy Preserving Collaborative Encrypted Network Traffic Classification 
+**Privacy Preserving Collaborative Encrypted Network Traffic Classification**
 
 Interconnecting the following works: 
 * Differential Privacy
