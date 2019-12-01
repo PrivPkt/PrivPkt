@@ -17,6 +17,7 @@ ___
 ![Our Collaborative Architecture](https://raw.githubusercontent.com/PrivPkt/PrivPkt/master/privpkt.PNG)
 
 We utilize Federated Averaging to enable the collaborative learning setting. 
+
 Ref: https://arxiv.org/abs/1602.05629
 
 
