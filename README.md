@@ -1,5 +1,6 @@
 # PrivPkt
 Privacy Preserving Collaborative Encrypted Network Traffic Classification 
+<br> 
 Interconnecting the following fields: Differential Privacy, Federated Learning, Membership Inference Attacks, Encrypted Traffic Classification
 
 
