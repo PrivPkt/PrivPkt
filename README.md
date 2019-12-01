@@ -14,7 +14,7 @@ ___
 <br><br><br>
 ### Federated Learning
 
-![Our Collaborative Architecture](https://raw.githubusercontent.com/PrivPkt/PrivPkt/master/privpkt.PNG)
+![Our Collaborative Architecture](https://raw.githubusercontent.com/PrivPkt/PrivPkt/master/Images/privpkt.PNG)
 
 We utilize Federated Averaging to enable the collaborative learning setting. 
 
@@ -26,7 +26,7 @@ Ref: https://arxiv.org/abs/1602.05629
 ### Differential Privacy
 We make use of DPSGD to ensure a ceratin level of privacy.  
 
-![DPSGD Algorithm](https://raw.githubusercontent.com/PrivPkt/PrivPkt/master/dpsgd.PNG)
+![DPSGD Algorithm](https://raw.githubusercontent.com/PrivPkt/PrivPkt/master/Images/dpsgd.PNG)
 
 Ref:https://arxiv.org/abs/1602.05629
 
@@ -36,7 +36,7 @@ Ref:https://arxiv.org/abs/1602.05629
 ### Membership Inference Attacks 
 We make use of Shokri et al. Membership Inference Attacks to evaluate our mitigations. 
 
-![Membership Inference Attack Architecture](https://raw.githubusercontent.com/PrivPkt/PrivPkt/master/mia.PNG)
+![Membership Inference Attack Architecture](https://raw.githubusercontent.com/PrivPkt/PrivPkt/master/Images/mia.PNG)
 
 Ref: https://arxiv.org/abs/1610.05820
 
@@ -47,7 +47,7 @@ Ref: https://arxiv.org/abs/1610.05820
 We tackle the problem of Encrypted Traffic Classification. 
 We utilize the work of DeepPacket and use the ISCX Vpn 2016 Dataset to evaluate our work. 
 
-![DeepPacket Architecture](https://raw.githubusercontent.com/PrivPkt/PrivPkt/master/deeppacket.PNG)
+![DeepPacket Architecture](https://raw.githubusercontent.com/PrivPkt/PrivPkt/master/Images/deeppacket.PNG)
 
 Ref: https://arxiv.org/abs/1709.02656
 
