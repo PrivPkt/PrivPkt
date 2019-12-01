@@ -1,6 +1,7 @@
 # PrivPkt
 Privacy Preserving Collaborative Encrypted Network Traffic Classification 
 <br> 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 Interconnecting the following works: Differential Privacy, Federated Learning, Membership Inference Attacks, Encrypted Traffic Classification
 
 <br> 
