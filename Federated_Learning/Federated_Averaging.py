@@ -35,3 +35,21 @@ if acc > our_acc_threshold:
     #save h5 weights 
     modelJ.save_weights('Join-1.h5')
     
+
+    
+#at client side    
+#if you don't want to send the whole h5 and only the update to the weight matrix use this 
+modelUW = create_model(None) # we know the archtecture of the model 
+modelJoint = create_model(None) # we know the archtecture of the model 
+
+modelUW.load_weights('dp_model_3_validate_after_wasting_48hrs.h5') #load weights 
+modelJoint.load_weights('McMasterU-1.h5') #load weights 
+
+
+for layer in modelUW.layers:
+    weightsUW = layer.get_weights() # list of numpy arrays
+    
+for layer in modelJoint.layers:
+    weightsJoint = layer.get_weights() # list of numpy arrays
+    
+updateUW = weightsJoint - weightsUW
