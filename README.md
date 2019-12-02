@@ -7,8 +7,9 @@ Interconnecting the following works:
 * Membership Inference Attacks
 * Encrypted Traffic Classification
 ___
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/PrivPkt/PrivPkt.svg)](http://hits.dwyl.io/PrivPkt/PrivPkt)| |license| image:: https://img.shields.io/pypi/l/mia.svg
-   :alt: License
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/PrivPkt/PrivPkt.svg)](http://hits.dwyl.io/PrivPkt/PrivPkt)
+[![License](https://img.shields.io/pypi/l/mia.svg)]() 
+
 
 
 
