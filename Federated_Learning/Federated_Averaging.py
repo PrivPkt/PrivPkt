@@ -147,4 +147,19 @@ for epoch in range(NUM_OF_EPOS):
     loss, acc = server_model.evaluate_generator(val_gen)
     print("Server Model ACC="+ str(acc))
         
+        
+        
+################# BASICALLY 
+
+
+weights = [model.get_weights() for model in models]
+
+new_weights = list()
+
+for weights_list_tuple in zip(*weights):
+    new_weights.append(
+        [numpy.array(weights_).mean(axis=0)\
+            for weights_ in zip(*weights_list_tuple)])
+
+new_model.set_weights(new_weights)
 
