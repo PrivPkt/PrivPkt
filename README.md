@@ -11,7 +11,6 @@ ___
 [![License](https://img.shields.io/pypi/l/mia.svg)]() 
 <a href="https://https://github.com/PrivPkt/PrivPkt/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/PrivPkt/PrivPkt"></a>
 <a href="https://github.com/kaiiyer/PrivPkt/PrivPkt"><img alt="GitHub forks" src="https://img.shields.io/github/forks/PrivPkt/PrivPkt"></a>
-<a href="https://github.com/PrivPkt/PrivPkt/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/PrivPkt/PrivPkt"></a>
 <a href="https://github.com/PrivPkt/PrivPkt/graphs/contributors" alt="Contributors">
 <img src="https://img.shields.io/github/contributors/PrivPkt/PrivPkt" /></a>
 
