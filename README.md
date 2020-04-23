@@ -9,15 +9,13 @@ Interconnecting the following works:
 ___
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/PrivPkt/PrivPkt.svg)](http://hits.dwyl.io/PrivPkt/PrivPkt)
 [![License](https://img.shields.io/pypi/l/mia.svg)]() 
-![Python](https://alibahaari.github.io/Badge/Python.png)
-
 <a href="https://https://github.com/PrivPkt/PrivPkt/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/PrivPkt/PrivPkt"></a>
 <a href="https://github.com/kaiiyer/PrivPkt/PrivPkt"><img alt="GitHub forks" src="https://img.shields.io/github/forks/PrivPkt/PrivPkt"></a>
 <a href="https://github.com/PrivPkt/PrivPkt/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/PrivPkt/PrivPkt"></a>
 <a href="https://github.com/PrivPkt/PrivPkt/graphs/contributors" alt="Contributors">
 <img src="https://img.shields.io/github/contributors/PrivPkt/PrivPkt" /></a>
 
-
+![Python](https://alibahaari.github.io/Badge/Python.png)
 
 <br><br><br>
 ### Federated Learning
