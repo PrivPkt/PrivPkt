@@ -13,6 +13,8 @@ ___
 <a href="https://github.com/kaiiyer/PrivPkt/PrivPkt"><img alt="GitHub forks" src="https://img.shields.io/github/forks/PrivPkt/PrivPkt"></a>
 <a href="https://github.com/PrivPkt/PrivPkt/graphs/contributors" alt="Contributors">
 <img src="https://img.shields.io/github/contributors/PrivPkt/PrivPkt" /></a>
+<a href="https://github.com/PrivPkt/PrivPkt/graphs/stars" alt="Stars">
+<img src="https://img.shields.io/github/stars/PrivPkt/PrivPkt" /></a>
 
 ![Python](https://alibahaari.github.io/Badge/Python.png)
 
