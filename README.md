@@ -3,7 +3,7 @@
 
 Interconnecting the following works: 
 * Differential Privacy
-* Federated Learning
+* Federated Learning (We plan to add split learning) 
 * Membership Inference Attacks
 * Encrypted Traffic Classification
 ___
