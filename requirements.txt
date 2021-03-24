@@ -187,7 +187,7 @@ requests==2.21.0
 requests-oauthlib==1.3.0
 retrying==1.3.3
 rope==0.12.0
-rsa==4.0
+rsa==4.1
 ruamel-yaml==0.15.46
 scapy==2.4.3
 scikit-image==0.14.2
