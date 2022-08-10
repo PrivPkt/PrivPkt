@@ -114,7 +114,7 @@ mpmath==1.1.0
 msgpack==0.6.1
 multipledispatch==0.6.0
 navigator-updater==0.2.1
-nbconvert==5.4.1
+nbconvert==6.3.0
 nbformat==4.4.0
 nest-asyncio==1.2.0
 networkx==2.2
