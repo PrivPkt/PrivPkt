@@ -94,7 +94,7 @@ keyring==18.0.0
 kiwisolver==1.0.1
 lazy-object-proxy==1.3.1
 libarchive-c==2.8
-lief==0.9.0
+lief==0.12.1
 livelossplot==0.4.1
 llvmlite==0.28.0
 locket==0.2.0
