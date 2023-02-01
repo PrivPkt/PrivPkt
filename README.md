@@ -7,7 +7,7 @@ Interconnecting the following works:
 * Membership Inference Attacks
 * Encrypted Traffic Classification
 ___
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) [![HitCount](http://hits.dwyl.io/PrivPkt/PrivPkt.svg)](http://hits.dwyl.io/PrivPkt/PrivPkt)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) 
 [![License](https://img.shields.io/pypi/l/mia.svg)]() 
 <a href="https://https://github.com/PrivPkt/PrivPkt/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/PrivPkt/PrivPkt"></a>
 <a href="https://github.com/kaiiyer/PrivPkt/PrivPkt"><img alt="GitHub forks" src="https://img.shields.io/github/forks/PrivPkt/PrivPkt"></a>
@@ -16,7 +16,9 @@ ___
 <a href="https://github.com/PrivPkt/PrivPkt/graphs/stars" alt="Stars">
 <img src="https://img.shields.io/github/stars/PrivPkt/PrivPkt" /></a>
 [![Open Source Love svg1](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-![Python](https://alibahaari.github.io/Badge/Python.png)
+
+PAPER: https://www.researchgate.net/profile/Ezzeldin-Tahoun/publication/345974499_PrivPkt_Privacy_Preserving_Collaborative_Encrypted_Traffic_Classification/links/5fb378d592851cf24cd85891/PrivPkt-Privacy-Preserving-Collaborative-Encrypted-Traffic-Classification.pdf
+
 
 <br><br><br>
 ### Federated Learning
