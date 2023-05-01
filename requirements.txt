@@ -49,7 +49,7 @@ et-xmlfile==1.0.1
 fastcache==1.0.2
 file-path==0.2
 filelock==3.0.10
-Flask==1.0.2
+Flask==2.3.2
 Flask-SocketIO==4.2.1
 future==0.17.1
 gast==0.2.2
